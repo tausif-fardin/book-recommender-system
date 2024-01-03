@@ -30,5 +30,5 @@ The system uses datasets from the Book-Crossing dataset:
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/tausif-fardin/book-recommender-system.git)https://github.com/tausif-fardin/book-recommender-system.git
 cd collaborative_book_recommendation_system
